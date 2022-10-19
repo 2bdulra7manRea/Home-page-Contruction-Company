@@ -1,5 +1,7 @@
 # Home-page-Contruction-Company
 
+it is a home page for displaying information about contruction company 
+
 # Technologies:
 -JavaScript
 -HTML
